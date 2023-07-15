@@ -19,13 +19,6 @@ The Universal Assistant for macOS is a powerful voice-enabled assistant that pro
 * **File Management**: Open any file or folder without need for manual search
 * **Siri Integration**: Seamlessly integrate with Siri to perform various actions such as creating reminders, opening applications, adjusting brightness and volume, enabling or disabling Wi-Fi and Bluetooth, and searching the web.
 
-## Usage
-
-1. Clone this repository using git clone https://github.com/Tristan296/Universal-MacAssistant.git
-2. Run `python setup.py install` in the terminal to install the required dependencies.
-3. Open the terminal and run python3 main.py to start the assistant.
-4. Choose from the available prompts to interact with the assistant and utilize its features.
-
 ## Additional Features:
 
 **OpenWeatherMap API**: To utilize weather information, create an OpenWeatherMap account and generate an API key. Add the API key to the .env file using the format OPENWEATHER_API_KEY=your_key_here.
